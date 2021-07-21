@@ -15,3 +15,5 @@
    - Restore from backup
    - Backup power system
    - Hot site
+
+ - Data sovereignty - Data that resides in a country is subject to the laws of that country.
