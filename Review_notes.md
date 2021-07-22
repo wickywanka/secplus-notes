@@ -33,4 +33,4 @@
  - Relying parties (RPs) provide services to members of a federation. 
  - An identity provider (IdP) provides identities, makes assertions about those identities, and releases information about the identity holders.
 
- - 
+ -  DNS blackholing is a process that uses a list of known domains/IP addresses belonging to malicious hosts and uses an internal DNS server to create a fake reply
