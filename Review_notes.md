@@ -41,3 +41,13 @@
  - PIV - Personal Identity Verification
 
  - Infrastructure as Code (IaC) -  utilizes a well-written set of carefully developed and tested scripts to orchestrate runbooks and generate consistent server builds across an enterprise.
+
+  | Symmetric Algos | Asymmetric Algos |
+  | --------------- | ---------------- |
+  |  RC4            |   ECC            |
+  |  DES            |   PGP            |
+  |  3DES           |   RSA            |
+  |  AES            |   Diifie-Hellman |
+  |  QUAD           |   El Gamal       |
+  |  Blowfish       |   DSA            |
+  |  Twofish        |                  |
