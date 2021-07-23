@@ -38,3 +38,4 @@
  - Banner Grabbing is a technique used to gain information about a computer system on a network and the services running on its open ports.
 
  - Passive scanning is a method of vulnerability detection that relies on information gleaned from network data that is captured from a target computer without direct interaction.
+ - PIV - Personal Identity Verification
