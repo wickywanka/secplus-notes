@@ -39,3 +39,5 @@
 
  - Passive scanning is a method of vulnerability detection that relies on information gleaned from network data that is captured from a target computer without direct interaction.
  - PIV - Personal Identity Verification
+
+ - Infrastructure as Code (IaC) -  utilizes a well-written set of carefully developed and tested scripts to orchestrate runbooks and generate consistent server builds across an enterprise.
