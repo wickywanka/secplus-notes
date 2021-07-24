@@ -51,3 +51,6 @@
   |  QUAD           |   El Gamal       |
   |  Blowfish       |   DSA            |
   |  Twofish        |                  |
+
+
+ - A jumpbox is a system on a network used to access and manage devices in a separate security zone. This would create network segmentation between the supplier's laptops and the rest of the network to minimize the risk. A jump-box system is a hardened and monitored device that spans two dissimilar security zones and provides a controlled means of access between them.
