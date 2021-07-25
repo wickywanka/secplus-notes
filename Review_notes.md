@@ -57,3 +57,4 @@
 
  - Order of Evidence Collection:
    Processor Cache > RAM > Swap file > Hard Drive or USB Drive
+ - War walking - act of searching for Wi-Fi wireless networks
