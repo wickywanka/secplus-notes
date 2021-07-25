@@ -58,3 +58,6 @@
  - Order of Evidence Collection:
    Processor Cache > RAM > Swap file > Hard Drive or USB Drive
  - War walking - act of searching for Wi-Fi wireless networks
+
+ - Degaussing is the process of reducing or eliminating an unwanted magnetic field (or data) stored on tape
+ -  Purging is a step up from clearing. It includes using logical methods, like above, and physical methods to make it hard to recover data.
