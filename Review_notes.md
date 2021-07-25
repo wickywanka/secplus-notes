@@ -6,7 +6,7 @@
  - Role based access control - Lable
  - Discretionary access control - Owner
  - Mandatory Based access control - Computer (Strongest)
- - Attribute-based access control - Dynamic, If-then
+ - Attribute-based access control - Dynamic, If-then ( provides the most detailed and explicit type of access control over a resource )
 
 
  - Security control for Backup generators would be a Compensating control type
