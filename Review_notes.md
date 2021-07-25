@@ -5,7 +5,7 @@
 
  - Role based access control - Lable
  - Discretionary access control - Owner
- - Mandatory Based access control - Computer
+ - Mandatory Based access control - Computer (Strongest)
  - Attribute-based access control - Dynamic, If-then
 
 
