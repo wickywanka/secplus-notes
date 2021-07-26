@@ -61,3 +61,7 @@
 
  - Degaussing is the process of reducing or eliminating an unwanted magnetic field (or data) stored on tape
  -  Purging is a step up from clearing. It includes using logical methods, like above, and physical methods to make it hard to recover data.
+
+ - DPO (Data Protection Officer) -  responsible for overseeing data protection strategy and implementation to ensure compliance with GDPR requirements.
+ - Data Owner - responsible for the protection of privacy and website user rights.
+ - Data Steward/Custodian - is related to the storage, aggregation and the use of data sets
