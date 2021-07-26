@@ -64,4 +64,7 @@
 
  - DPO (Data Protection Officer) -  responsible for overseeing data protection strategy and implementation to ensure compliance with GDPR requirements.
  - Data Owner - responsible for the protection of privacy and website user rights.
- - Data Steward/Custodian - is related to the storage, aggregation and the use of data sets
+ - Data steward - this role is primarily responsible for data quality. This involves tasks such as ensuring data is labeled and identified with appropriate metadata and that data is collected and stored in a format and with values that comply with applicable laws and regulations.
+ - Data custodian - This includes responsibility for enforcing access control, encryption, and backup/recovery measures.
+ - Data controller - the entity responsible for determining why and how data is stored, collected, and used and for ensuring that these purposes and means are lawful. 
+ - Data processor - an entity engaged by the data controller to assist with technical collection, storage, or analysis tasks.
