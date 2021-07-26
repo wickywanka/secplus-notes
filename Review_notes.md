@@ -68,3 +68,8 @@
  - Data custodian - This includes responsibility for enforcing access control, encryption, and backup/recovery measures.
  - Data controller - the entity responsible for determining why and how data is stored, collected, and used and for ensuring that these purposes and means are lawful. 
  - Data processor - an entity engaged by the data controller to assist with technical collection, storage, or analysis tasks.
+
+ - The Authentication Header (AH) protocol provides data origin authentication, data integrity, and replay protection
+ - Encapsulating Security Payload (ESP) is a member of the Internet Protocol Security (IPsec) set of protocols that encrypt and authenticate the packets of data between computers using a Virtual Private Network (VPN). 
+ - The Secure Real-time Transport Protocol is a profile for Real-time Transport Protocol intended to provide encryption, message authentication and integrity, and replay attack protection to the RTP data in both unicast and multicast applications.
+ - 
