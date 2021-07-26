@@ -3,9 +3,9 @@
  - SSO reduces the resiliency and availability of systems if the identity provider goes offline.
 
 
- - Role based access control - Lable
+ - Role based access control - An access control model where resources are protected by ACLs that are managed by administrators and that provide user permissions based on job functions.
  - Discretionary access control - Owner
- - Mandatory Based access control - Computer (Strongest)
+ - Mandatory Based access control - Computer (Strongest) (Label)
  - Attribute-based access control - Dynamic, If-then ( provides the most detailed and explicit type of access control over a resource )
 
 
