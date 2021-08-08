@@ -76,3 +76,4 @@
  - RAID 1 - One goes down, only one remains (One disk failure)
  - RAID 5/6 - Two simaltaneous disk failures
  - RAID 10 - 4 or more Disk Failures
+ - RAID 10 is Faster than RAID 5
