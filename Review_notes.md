@@ -78,4 +78,4 @@
  - RAID 10 - 4 or more Disk Failures
  - RAID 10 is Faster than RAID 5
  - RAID 6 gives better fault tolerance than RAID 5
-
+ - WPA3 uses SAE (Simultaneous Authentication of Equals)
